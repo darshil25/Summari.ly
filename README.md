@@ -2,7 +2,7 @@
 Summari.ly is a web-based application that leverages the power of the GPT API from RapidAPI to provide users with a summarized version of any online article. The application uses advanced algorithms to analyze the content of an article and generate a concise summary, helping users save time and effort.
 
 # Link
-You can view the website here: https://summarily.netlify.app/
+You can view the website here: https://summarily.netlify.app
 ![image](https://user-images.githubusercontent.com/96040173/235335741-796b971e-cb3e-4327-a0ae-0c10498363ae.png)
 
 # Technologies Used
